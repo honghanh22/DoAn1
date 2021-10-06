@@ -1,0 +1,64 @@
+F:\Đồ Án\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.exe
+F:\Đồ Án\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.deps.json
+F:\Đồ Án\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.json
+F:\Đồ Án\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.dev.json
+F:\Đồ Án\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.dll
+F:\Đồ Án\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.pdb
+F:\Đồ Án\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csprojAssemblyReference.cache
+F:\Đồ Án\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfoInputs.cache
+F:\Đồ Án\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfo.cs
+F:\Đồ Án\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.dll
+F:\Đồ Án\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.pdb
+F:\Đồ Án\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.genruntimeconfig.cache
+F:\Đồ Án\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+F:\Đồ Án\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+F:\Đồ Án\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CoreCompileInputs.cache
+F:\Đồ Án\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.exe
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.deps.json
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.json
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\Admin\Downloads\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.genruntimeconfig.cache
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.exe
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.deps.json
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.json
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.dev.json
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfo.cs
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CopyComplete
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.dll
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.pdb
+C:\Users\Admin\Documents\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.genruntimeconfig.cache
+F:\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.exe
+F:\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.deps.json
+F:\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.json
+F:\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.runtimeconfig.dev.json
+F:\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.dll
+F:\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DoAn1.pdb
+F:\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+F:\DoAn1\DoAn1\DoAn1\DoAn1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+F:\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csprojAssemblyReference.cache
+F:\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfoInputs.cache
+F:\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.AssemblyInfo.cs
+F:\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CoreCompileInputs.cache
+F:\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.csproj.CopyComplete
+F:\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.dll
+F:\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.pdb
+F:\DoAn1\DoAn1\DoAn1\DoAn1\obj\Debug\netcoreapp3.1\DoAn1.genruntimeconfig.cache

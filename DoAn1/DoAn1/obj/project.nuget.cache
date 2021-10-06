@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CrnXf8ZwMPtKKI7fOFCksvIvJsDgIVUBzDqkpC5kUWlkX/NqFC5WIBLDki7vicsyS7IRVzW7WClRT0rrSNmLSw==",
+  "success": true,
+  "projectFilePath": "F:\\DoAn1\\DoAn1\\DoAn1\\DoAn1\\DoAn1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
